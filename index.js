@@ -20,6 +20,7 @@ const configs = {
 
 
 /* storing assigned details */
+console.log(process.argv)
 
 const args = process.argv.splice(1);
 
