@@ -1,0 +1,15 @@
+{
+  "name": "wp-react-app",
+  "version": "1.0.04",
+  "description": "webpack-react-app allows us to make custom react app without create-react-app command. using webpack in our project gives us more control over react configuration and it also makes project lighter and faster to run",
+  "main": "index.js",
+  "repository": "https://github.com/Labham-Jain/wp-react-app.git",
+  "author": "Labham Jain",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs-extra": "^9.1.0"
+  },
+  "bin":"index.js"
+}
