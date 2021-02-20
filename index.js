@@ -20,9 +20,8 @@ const configs = {
 
 
 /* storing assigned details */
-console.log(process.argv)
 
-const args = process.argv.splice(1);
+const args = process.argv.splice(2);
 
 args.forEach((arg) => {
     const splitted = arg.split('=');
